@@ -26,6 +26,7 @@ p {
 }
 
 button.PlayLink {
+  font-family: 'Comic Sans MS';
   min-height: 75px;
   background-color: #ffe4d1;
   /*border: #f49ade 3px solid;*/
