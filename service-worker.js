@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "https://filip-sutkowy.github.io/unicorns/precache-manifest.62fcf509f7600f134cba4b41160a03ed.js"
+  "https://filip-sutkowy.github.io/unicorns/precache-manifest.ecbd24a934100e45a13f3e1ac500103c.js"
 );
 
 self.addEventListener('message', (event) => {

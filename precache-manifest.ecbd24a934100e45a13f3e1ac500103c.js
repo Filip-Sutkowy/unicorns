@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6ea3c00fc05f034176b10eb9c838cc50",
+    "revision": "bf19e8e03c563b2901423fdf95ce8b1b",
     "url": "https://filip-sutkowy.github.io/unicorns/index.html"
   },
   {
-    "revision": "182491b81f238f49ff55",
-    "url": "https://filip-sutkowy.github.io/unicorns/static/css/main.042fa56f.chunk.css"
+    "revision": "ad2ccf1374fe9ae261c8",
+    "url": "https://filip-sutkowy.github.io/unicorns/static/css/main.9ded865b.chunk.css"
   },
   {
     "revision": "83f31b3906632965ecfd",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://filip-sutkowy.github.io/unicorns/static/js/2.12d640f0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "182491b81f238f49ff55",
-    "url": "https://filip-sutkowy.github.io/unicorns/static/js/main.6327de6f.chunk.js"
+    "revision": "ad2ccf1374fe9ae261c8",
+    "url": "https://filip-sutkowy.github.io/unicorns/static/js/main.65506bba.chunk.js"
   },
   {
     "revision": "81cbe68ceda41cf7c349",

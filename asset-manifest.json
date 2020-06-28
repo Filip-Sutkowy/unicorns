@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "https://filip-sutkowy.github.io/unicorns/static/css/main.042fa56f.chunk.css",
-    "main.js": "https://filip-sutkowy.github.io/unicorns/static/js/main.6327de6f.chunk.js",
-    "main.js.map": "https://filip-sutkowy.github.io/unicorns/static/js/main.6327de6f.chunk.js.map",
+    "main.css": "https://filip-sutkowy.github.io/unicorns/static/css/main.9ded865b.chunk.css",
+    "main.js": "https://filip-sutkowy.github.io/unicorns/static/js/main.65506bba.chunk.js",
+    "main.js.map": "https://filip-sutkowy.github.io/unicorns/static/js/main.65506bba.chunk.js.map",
     "runtime-main.js": "https://filip-sutkowy.github.io/unicorns/static/js/runtime-main.54911920.js",
     "runtime-main.js.map": "https://filip-sutkowy.github.io/unicorns/static/js/runtime-main.54911920.js.map",
     "static/js/2.12d640f0.chunk.js": "https://filip-sutkowy.github.io/unicorns/static/js/2.12d640f0.chunk.js",
     "static/js/2.12d640f0.chunk.js.map": "https://filip-sutkowy.github.io/unicorns/static/js/2.12d640f0.chunk.js.map",
     "index.html": "https://filip-sutkowy.github.io/unicorns/index.html",
-    "precache-manifest.62fcf509f7600f134cba4b41160a03ed.js": "https://filip-sutkowy.github.io/unicorns/precache-manifest.62fcf509f7600f134cba4b41160a03ed.js",
+    "precache-manifest.ecbd24a934100e45a13f3e1ac500103c.js": "https://filip-sutkowy.github.io/unicorns/precache-manifest.ecbd24a934100e45a13f3e1ac500103c.js",
     "service-worker.js": "https://filip-sutkowy.github.io/unicorns/service-worker.js",
-    "static/css/main.042fa56f.chunk.css.map": "https://filip-sutkowy.github.io/unicorns/static/css/main.042fa56f.chunk.css.map",
+    "static/css/main.9ded865b.chunk.css.map": "https://filip-sutkowy.github.io/unicorns/static/css/main.9ded865b.chunk.css.map",
     "static/js/2.12d640f0.chunk.js.LICENSE.txt": "https://filip-sutkowy.github.io/unicorns/static/js/2.12d640f0.chunk.js.LICENSE.txt",
     "static/media/1.gif": "https://filip-sutkowy.github.io/unicorns/static/media/1.e4deac98.gif",
     "static/media/10.gif": "https://filip-sutkowy.github.io/unicorns/static/media/10.7dfd4e54.gif",
@@ -27,7 +27,7 @@
   "entrypoints": [
     "static/js/runtime-main.54911920.js",
     "static/js/2.12d640f0.chunk.js",
-    "static/css/main.042fa56f.chunk.css",
-    "static/js/main.6327de6f.chunk.js"
+    "static/css/main.9ded865b.chunk.css",
+    "static/js/main.65506bba.chunk.js"
   ]
 }
