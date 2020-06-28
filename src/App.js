@@ -15,14 +15,16 @@ export class App extends React.Component {
     const style = {
       top: Math.random() * this.state.height - 250,
       left: Math.random() * this.state.width - 250,
-      transform: 'rotate('+Math.floor(60*Math.random()) * (Math.random() < 0.5 ? -1 : 1)+'deg)'
+      transform: 'rotate('+Math.floor(60*Math.random()) * (Math.random() < 0.5 ? -1 : 1)+'deg) scale('+Math.max(Math.random(), 0.2)+')'
     }
 
     let image = <img
       key={this.images.length}
       className={classes.image}
       style={style}
-      src={imageList[Math.floor(Math.random() * imageList.length)]}/>;
+      src={imageList[Math.floor(Math.random() * imageList.length)]}
+      alt=""
+    />;
 
     this.images =[ ...this.images, image];
 
@@ -61,10 +63,10 @@ export class App extends React.Component {
           Click button to add more unicorns!
         </p>
 
-        <a
+        <button
           className={classes.PlayLink+' '+classes.interface}
           onClick={this.spawn}
-        >Spawn!</a>
+        >Spawn!</button>
 
         <a href="https://github.com/Filip-Sutkowy/unicorns"
            target="_blank"
