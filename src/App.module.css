@@ -1,0 +1,90 @@
+.Home {
+  min-height: calc(100vh - 75px);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: #f49ade;
+}
+
+.Home a {
+  color: #ffe4d1;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.interface {
+  z-index: 2137;
+}
+
+p {
+  color: #c37bb1;
+  font-weight: bold;
+  font-size: 24px;
+  text-shadow: -1px -1px 0 #fff8dd, 1px -1px 0 #fff8dd, -1px 1px 0 #fff8dd, 1px 1px 0 #fff8dd;
+}
+
+a.PlayLink {
+  min-height: 75px;
+  background-color: #ffe4d1;
+  /*border: #f49ade 3px solid;*/
+  text-align: center;
+  width: 300px;
+  font-size: 45px;
+  line-height: 75px;
+  margin: 20px auto;
+  color: inherit;
+  text-decoration: none;
+  transition: 0.2s all ease;
+  max-width: 100%;
+  border-radius: 35px;
+  box-shadow: #DB8AC7 0px 0px 20px 5px;
+  user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+}
+
+.PlayLink:hover {
+  background-color: #f49ade;
+  /*border: #ffe4d1 3px solid;*/
+  color: #fff8dd;
+  transform: scale(1.1);
+  box-shadow: #DB8AC7 0px 10px 20px 10px;
+}
+
+.PlayLink:active {
+  background-color: #f49ade;
+  color: #fff8dd;
+  transform: scale(1.2);
+}
+
+a:hover {
+  cursor: pointer;
+}
+
+a.gitlink {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  text-shadow: -1px -1px 0 #DB8AC7, 1px -1px 0 #DB8AC7, -1px 1px 0 #DB8AC7, 1px 1px 0 #DB8AC7;
+}
+
+a.gitlink:hover {
+
+}
+
+.gitlogo {
+  color: #DB8AC7;
+}
+
+.counter {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+}
+
+.image {
+  position: absolute;
+}
